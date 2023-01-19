@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "next": "^13.1.2",
+    "semantic-ui-react": "^2.1.4",
     "web3": "^1.8.1",
     "youtube-api": "^3.0.1"
   }
